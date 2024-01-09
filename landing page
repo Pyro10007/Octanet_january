@@ -101,31 +101,31 @@
 
         <div class="row">
             <div class="branch">
-                <img src="E:\python\img\R.jpeg" alt="Mechanical Engineering">
+                <img src="https://th.bing.com/th/id/R.348eec0e29333f2adc273c15e8f5ad80?rik=yBNkMborW3NHfQ&riu=http%3a%2f%2fwww.mckvie.edu.in%2fwp-content%2fuploads%2f2021%2f06%2fmechanical-engineering.jpg&ehk=3%2f1evC8iRyBkP7gNXnkCFX%2fbT%2bkBDvtr%2b3kvTOmu5Lo%3d&risl=&pid=ImgRaw&r=0" alt="Mechanical Engineering">
                 <h2>Mechanical Engineering</h2>
                 <p>Explore the world of machines and precision engineering.</p>
             </div>
 
             <div class="branch">
-                <img src="E:\python\img\etc.jpeg" alt="Electrical Engineering">
+                <img src="https://wallpapercave.com/wp/wp8489573.jpg" alt="Electrical Engineering">
                 <h2>Electrical Engineering</h2>
                 <p>Powering the future through innovation in electronics.</p>
             </div>
 
             <div class="branch">
-                <img src="E:\python\img\Civil-engineers.jpg" alt="Civil Engineering">
+                <img src="https://th.bing.com/th/id/OIP.yl7f727WISpDLPB0DSb_kAHaEK?rs=1&pid=ImgDetMain" alt="Civil Engineering">
                 <h2>Civil Engineering</h2>
                 <p>Designing and constructing the infrastructure of tomorrow.</p>
             </div>
 
             <div class="branch">
-                <img src="E:\python\img\computer s.jpeg" alt="Computer Science">
+                <img src="https://th.bing.com/th/id/OIP.EUsQXQZ16yEvS5bvmSvifwHaFj?rs=1&pid=ImgDetMain" alt="Computer Science">
                 <h2>Computer Science</h2>
                 <p>Code the future with innovative software and technologies.</p>
             </div>
 
             <div class="branch">
-                <img src="E:\python\img\aerospace.jpg" alt="Aerospace Engineering">
+                <img src="https://wallpapercave.com/wp/wp7912818.jpg" alt="Aerospace Engineering">
                 <h2>Aerospace Engineering</h2>
                 <p>Reach new heights in aviation and space exploration.</p>
             </div>
@@ -133,7 +133,7 @@
 
         <div class="row">
             <div class="books">
-                <img src="E:\python\img\books.jpeg" alt="Sell Books">
+                <img src="https://cdn.firespring.com/images/f9f05142-988d-4789-a26f-4c96babb7e73.png?w=1123&token=87a1eb813e58c1305efc392497f47ce3" alt="Sell Books">
                 <h2>Sell Your Old Engineering Books</h2>
                 <p>Turn your old books into cash. Share knowledge and earn!</p>
                 <table>
@@ -164,7 +164,7 @@
             </div>
 
             <div class="books">
-                <img src="E:\python\img\books.jpeg" alt="Buy Books">
+                <img src="https://cdn.firespring.com/images/f9f05142-988d-4789-a26f-4c96babb7e73.png?w=1123&token=87a1eb813e58c1305efc392497f47ce3" alt="Buy Books">
                 <h2>Explore Second-hand Books</h2>
                 <p>Find affordable second-hand books for your studies.</p>
                 <table>
@@ -215,3 +215,4 @@
 
 </body>
 </html>
+
