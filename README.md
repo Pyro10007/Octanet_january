@@ -7,6 +7,7 @@ January , 2024
 E - Mail ID : pranithbaburaj21@gmail.com
 
 College Name : ajeenkya dy patil university
+
 OFFER LETTER
 
 We are delighted to make you an offer as a Development Intern. This letter is to confirm your
